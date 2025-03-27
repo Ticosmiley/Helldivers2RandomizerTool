@@ -1,0 +1,63 @@
+Name,isBackpack,isSupportWeapon,isEagle,isOneHandedShield,isVehicle
+RL-77 Airburst Rocket Launcher,True,True,False,False,False
+AC-8 Autocannon,True,True,False,False,False
+EAT-17 Expendable Anti-Tank,False,True,False,False,False
+FLAM-40 Flamethrower,False,True,False,False,False
+LAS-98 Laser Cannon,False,True,False,False,False
+M-105 Stalwart,False,True,False,False,False
+MG-43 Machine Gun,False,True,False,False,False
+ARC-3 Arc Thrower,False,True,False,False,False
+GL-21 Grenade Launcher,False,True,False,False,False
+APW-1 Anti-Materiel Rifle,False,True,False,False,False
+RS-422 Railgun,False,True,False,False,False
+FAF-14 Spear,True,True,False,False,False
+LAS-99 Quasar Cannon,False,True,False,False,False
+MG-206 Heavy Machine Gun,False,True,False,False,False
+MLS-4X Commando,False,True,False,False,False
+TX-41 Sterilizer,False,True,False,False,False
+StA-X3 W.A.S.P. Launcher,True,True,False,False,False
+AX/LAS-5 \"Guard Dog\" Rover,True,False,False,False,False
+AX/AR-23 \"Guard Dog\",True,False,False,False,False
+AX/TX-13 \"Guard Dog\" Dog Breath,True,False,False,False,False
+LIFT-850 Jump Pack,True,False,False,False,False
+B-1 Supply Pack,True,False,False,False,False
+SH-32 Shield Generator Pack,True,False,False,False,False
+Portable Hellbomb,True,False,False,False,False
+SH-20 Ballistic Shield Backpack,True,False,False,True,False
+SH-51 Directional Shield,True,False,False,True,False
+EXO-45 Patriot Exosuit,False,False,False,False,True
+EXO-49 Emancipator Exosuit,False,False,False,False,True
+M-102 Fast Recon Vehicle,False,False,False,False,True
+Orbital Precision Strike,False,False,False,False,False
+Orbital Airbust Strike,False,False,False,False,False
+Orbital 120MM HE Barrage,False,False,False,False,False
+Orbital 380MM HE Barrage,False,False,False,False,False
+Orbital Walking Barrage,False,False,False,False,False
+Orbital Laser,False,False,False,False,False
+Orbital Railcannon Strike,False,False,False,False,False
+Orbital Gas Strike,False,False,False,False,False
+Orbital EMS Strike,False,False,False,False,False
+Orbital Smoke Strike,False,False,False,False,False
+Orbital Napalm Barrage,False,False,False,False,False
+A/ARC-3 Tesla Tower,False,False,False,False,False
+A/M-12 Mortar Sentry,False,False,False,False,False
+A/M-23 EMS Mortar Sentry,False,False,False,False,False
+A/MG-43 Machine Gun Sentry,False,False,False,False,False
+A/G-16 Gatling Sentry,False,False,False,False,False
+A/AC-8 Autocannon Sentry,False,False,False,False,False
+A/MLS-4X Rocket Sentry,False,False,False,False,False
+A/FLAM-40 Flame Sentry,False,False,False,False,False
+MD-6 Anti-Personnel Mines,False,False,False,False,False
+MD-14 Incendiary Mines,False,False,False,False,False
+MD-17 Anti Tank Mines,False,False,False,False,False
+MD-8 Gas Mines,False,False,False,False,False
+FX-12 Shield Generator Relay,False,False,False,False,False
+E/MG-101 HMG Emplacement,False,False,False,False,False
+E/AT-12 Anti-Tank Emplacement,False,False,False,False,False
+Eagle Strafing Run,False,False,True,False,False
+Eagle Airstrike,False,False,True,False,False
+Eagle Cluster Bomb,False,False,True,False,False
+Eagle Napalm Airstrike,False,False,True,False,False
+Eagle Smoke Strike,False,False,True,False,False
+Eagle 110mm Rocket Pods,False,False,True,False,False
+Eagle 500kg Bomb,False,False,True,False,False

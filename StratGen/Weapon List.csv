@@ -1,0 +1,59 @@
+Name,weaponType,isOneHanded
+AR-23 Liberator,0,False
+AR-23P Liberator Penetrator,0,False
+AR-23C Liberator Concussive,0,False
+StA-52 Assault Rifle,0,False
+AR-23A Liberator Carbine,0,False
+AR-61 Tenderizer,0,False
+BR-14 Adjudicator,0,False
+R-2124 Constitution,0,False
+R-63 Diligence,0,False
+R-63CS Diligence Counter Sniper,0,False
+PLAS-39 Accelerator Rifle,0,False
+StA-11 SMG,0,True
+SMG-32 Reprimand,0,False
+SMG-37 Defender,0,True
+SMG-72 Pummeler,0,True
+SG-8 Punisher,0,False
+SG-8S Slugger,0,False
+SG-20 Halt,0,False
+SG-451 Cookout,0,False
+SG-225 Breaker,0,False
+SG-225SP Breaker Spray & Pray,0,False
+SG-225IE Breaker Incendiary,0,False
+CB-9 Exploding Crossbow,0,True
+R-36 Eruptor,0,False
+SG-8P Punisher Plasma,0,False
+ARC-12 Blitzer,0,False
+LAS-5 Scythe,0,False
+LAS-16 Sickle,0,False
+LAS-17 Double-Edge Sickle,0,False
+PLAS-1 Scorcher,0,False
+PLAS-101 Purifier,0,False
+FLAM-66 Torcher,0,False
+JAR-5 Dominator,0,False
+P-2 Peacemaker,1,False
+P-19 Redeemer,1,False
+P-113 Verdict,1,False
+P-4 Senator,1,False
+CQC-5 Combat Hatchet,1,False
+CQC-19 Stun Lance,1,False
+CQC-30 Stun Baton,1,False
+P-11 Stim Pistol,1,False
+SG-22 Bushwhacker,1,False
+P-72 Crisper,1,False
+GP-31 Grenade Pistol,1,False
+GP-31 Ultimatum,1,False
+LAS-7 Dagger,1,False
+PLAS-15 Loyalist,1,False
+G-6 Frag,2,False
+G-12 High Explosive,2,False
+G-10 Incendiary,2,False
+G-16 Impact,2,False
+G-13 Incendiary Impact,2,False
+G-23 Stun,2,False
+G-4 Gas,2,False
+G-3 Smoke,2,False
+G-50 Seeker,2,False
+G-123 Thermite,2,False
+K-2 Throwing Knife,2,False
